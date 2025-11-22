@@ -1,0 +1,7 @@
+{
+  "name": "MAA - Mindful Auto Alert",
+  "description": "Advanced AI-powered safety and emergency response system featuring satellite tracking, drone rescue, and predictive analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
